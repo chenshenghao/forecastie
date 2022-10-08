@@ -17,9 +17,9 @@ A simple, copylefted libre software weather app for Android. It gathers data fro
 * Offline functionality
 
 ## Screenshots
-[<img src="https://i.imgur.com/8g7HPIL.png" width=250>](https://i.imgur.com/8g7HPIL.png)
-[<img src="https://i.imgur.com/ye2O2B2.png" width=250>](https://i.imgur.com/ye2O2B2.png)
-[<img src="https://i.imgur.com/olkk2cB.png" width=250>](https://i.imgur.com/olkk2cB.png)
+[<img src="8g7HPIL.png" width=250>](./8g7HPIL.png)
+[<img src="ye2O2B2.png" width=250>](./ye2O2B2.png)
+[<img src="olkk2cB.png" width=250>](./olkk2cB.png)
 
 ## Demo
 <img src='gifs/gif_1.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
